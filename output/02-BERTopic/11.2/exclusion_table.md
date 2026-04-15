@@ -1,0 +1,20 @@
+|   topic |   index | title                                                                                                                                                     | reason   | result   |
+|--------:|--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------|:---------|:---------|
+|       2 |      43 | Advancing Sustainability in Software Engineering: Key Practices and Future Directions                                                                     |          |          |
+|      -1 |      85 | CEUR Workshop Proceedings                                                                                                                                 |          |          |
+|       2 |      86 | Carbon-Awareness in CI/CD                                                                                                                                 |          |          |
+|      -1 |      89 | Combining persuasive computing and user centered design into an energy awareness system for smart houses                                                  |          |          |
+|      -1 |     111 | Design and Implementation of Household Carbon Emission Estimation Program Based on Financial Consumption                                                  |          |          |
+|      -1 |     160 | Energy efficiency of the Visitor Pattern: contrasting Java and C++ implementations                                                                        |          |          |
+|       2 |     215 | Implications of baseline study findings from rural and deep rural clinics in Ethiopia, Kenya, Malawi and South Africa for the co-design of mHealth4Afrika |          |          |
+|      -1 |     286 | Optimising Energy Consumption of Design Patterns                                                                                                          |          |          |
+|      -1 |     287 | Optimising energy consumption of design patterns                                                                                                          |          |          |
+|      -1 |     296 | Platform for China Energy &amp; Environmental Policy Analysis                                                                                             |          |          |
+|       2 |     324 | Role of Green IT in Software Development Life Cycle                                                                                                       |          |          |
+|       2 |     357 | Sustainability-Aware Software Architecting for the Future Cloud                                                                                           |          |          |
+|      -1 |     364 | The Energy Cost of the Visitor Pattern                                                                                                                    |          |          |
+|       2 |     374 | The influence of green strategies design onto quality requirements prioritization                                                                         |          |          |
+|       2 |     381 | Towards Sustainable Software Engineering: A Green Computing Approach                                                                                      |          |          |
+|       2 |     382 | Towards Sustainable Software Testing Practices in IT Firms                                                                                                |          |          |
+|       2 |     384 | Towards a sustainable architectural design by an adaptation of the architectural driven design method                                                     |          |          |
+|       2 |     396 | Web-Based Application to Support Decision-Making in Determining the Progress of the Green Transition                                                      |          |          |

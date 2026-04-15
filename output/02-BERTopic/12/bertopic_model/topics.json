@@ -1,0 +1,464 @@
+{
+  "topic_representations": {
+    "0": [
+      [
+        "energy",
+        0.13912554180081857
+      ],
+      [
+        "software",
+        0.10329116359006209
+      ],
+      [
+        "consumption",
+        0.07851559278624803
+      ],
+      [
+        "energy consumption",
+        0.07214337135428311
+      ],
+      [
+        "design",
+        0.05511047687188669
+      ],
+      [
+        "efficiency",
+        0.048158831927235246
+      ],
+      [
+        "impact",
+        0.043787964143381576
+      ],
+      [
+        "green",
+        0.04276102452233443
+      ],
+      [
+        "energy efficiency",
+        0.04183515660257458
+      ],
+      [
+        "computing",
+        0.03489177225643998
+      ]
+    ],
+    "1": [
+      [
+        "software",
+        0.1592901099974353
+      ],
+      [
+        "green",
+        0.113613397286774
+      ],
+      [
+        "development",
+        0.09482513432408439
+      ],
+      [
+        "sustainability",
+        0.07567001116332187
+      ],
+      [
+        "software development",
+        0.07334442125401365
+      ],
+      [
+        "engineering",
+        0.06603640102407098
+      ],
+      [
+        "software engineering",
+        0.06335015514570738
+      ],
+      [
+        "green software",
+        0.06166431058920995
+      ],
+      [
+        "research",
+        0.04868113935669492
+      ],
+      [
+        "sustainable",
+        0.04381087816680425
+      ]
+    ]
+  },
+  "topics": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0
+  ],
+  "topic_sizes": {
+    "0": 53,
+    "1": 25
+  },
+  "topic_mapper": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1
+    ]
+  ],
+  "topic_labels": {
+    "0": "0_energy_software_consumption_energy consumption",
+    "1": "1_software_green_development_sustainability"
+  },
+  "custom_labels": null,
+  "_outliers": 0,
+  "topic_aspects": {
+    "main": {
+      "0": [
+        [
+          "software energy",
+          0.7720551490783691
+        ],
+        [
+          "energy consumption",
+          0.6074503660202026
+        ],
+        [
+          "energy efficiency",
+          0.5949996709823608
+        ],
+        [
+          "energy efficient",
+          0.5716375112533569
+        ],
+        [
+          "energy consumed",
+          0.5506583452224731
+        ],
+        [
+          "reduce energy",
+          0.5084711313247681
+        ],
+        [
+          "efficiency software",
+          0.4933006167411804
+        ],
+        [
+          "energy",
+          0.4566030502319336
+        ],
+        [
+          "efficiency",
+          0.4272330105304718
+        ],
+        [
+          "green software",
+          0.40129268169403076
+        ]
+      ],
+      "1": [
+        [
+          "sustainable software",
+          0.7519916296005249
+        ],
+        [
+          "sustainability software",
+          0.7065572738647461
+        ],
+        [
+          "green software",
+          0.6574670076370239
+        ],
+        [
+          "green sustainable",
+          0.5639854669570923
+        ],
+        [
+          "software engineering",
+          0.5133317708969116
+        ],
+        [
+          "software development",
+          0.5092384219169617
+        ],
+        [
+          "software design",
+          0.47451046109199524
+        ],
+        [
+          "software products",
+          0.4598991870880127
+        ],
+        [
+          "sustainability",
+          0.4502284526824951
+        ],
+        [
+          "sustainable",
+          0.40005603432655334
+        ]
+      ]
+    },
+    "openai": {
+      "0": [
+        [
+          "Energy Efficiency in Software Development and Consumption",
+          1
+        ]
+      ],
+      "1": [
+        [
+          "Green and Sustainable Software Engineering Practices and Research",
+          1
+        ]
+      ]
+    },
+    "aspect1": {
+      "0": [
+        [
+          "energy",
+          0.13912554180081857
+        ],
+        [
+          "software",
+          0.10329116359006209
+        ],
+        [
+          "consumption",
+          0.07851559278624803
+        ],
+        [
+          "design",
+          0.05511047687188669
+        ],
+        [
+          "efficiency",
+          0.048158831927235246
+        ],
+        [
+          "impact",
+          0.043787964143381576
+        ],
+        [
+          "green",
+          0.04276102452233443
+        ],
+        [
+          "computing",
+          0.03489177225643998
+        ],
+        [
+          "applications",
+          0.03340178860521822
+        ],
+        [
+          "development",
+          0.03278444918212363
+        ]
+      ],
+      "1": [
+        [
+          "software",
+          0.1592901099974353
+        ],
+        [
+          "green",
+          0.113613397286774
+        ],
+        [
+          "development",
+          0.09482513432408439
+        ],
+        [
+          "sustainability",
+          0.07567001116332187
+        ],
+        [
+          "engineering",
+          0.06603640102407098
+        ],
+        [
+          "green software",
+          0.06166431058920995
+        ],
+        [
+          "research",
+          0.04868113935669492
+        ],
+        [
+          "sustainable",
+          0.04381087816680425
+        ],
+        [
+          "environmental",
+          0.04110119968359801
+        ],
+        [
+          "sustainable software",
+          0.03835298391117655
+        ]
+      ]
+    },
+    "aspect2": {
+      "0": [
+        [
+          "software energy",
+          0.7720551490783691
+        ],
+        [
+          "energy consumption",
+          0.6074503660202026
+        ],
+        [
+          "efficiency",
+          0.4272330105304718
+        ],
+        [
+          "green software",
+          0.40129268169403076
+        ],
+        [
+          "cloud computing",
+          0.36444664001464844
+        ],
+        [
+          "software development",
+          0.2871633768081665
+        ],
+        [
+          "environmental impact",
+          0.2765701413154602
+        ],
+        [
+          "design patterns",
+          0.2697398364543915
+        ],
+        [
+          "hardware",
+          0.2639632523059845
+        ],
+        [
+          "applications",
+          0.25364649295806885
+        ]
+      ],
+      "1": [
+        [
+          "sustainable software",
+          0.7519916296005249
+        ],
+        [
+          "green software",
+          0.6574670076370239
+        ],
+        [
+          "green sustainable",
+          0.5639854669570923
+        ],
+        [
+          "software engineering",
+          0.5133317708969116
+        ],
+        [
+          "software products",
+          0.4598991870880127
+        ],
+        [
+          "environmental impact",
+          0.3616255223751068
+        ],
+        [
+          "green",
+          0.3530912399291992
+        ],
+        [
+          "development process",
+          0.35199493169784546
+        ],
+        [
+          "systematic literature",
+          0.21792641282081604
+        ],
+        [
+          "maintenance",
+          0.19368642568588257
+        ]
+      ]
+    }
+  }
+}

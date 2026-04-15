@@ -1,0 +1,6 @@
+__pycache___
+src/*/__pycache__
+.venv
+.env
+.DS_Store
+.python-version

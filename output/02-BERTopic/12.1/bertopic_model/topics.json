@@ -1,0 +1,1550 @@
+{
+  "topic_representations": {
+    "-1": [
+      [
+        "green",
+        0.15546333737893203
+      ],
+      [
+        "software development",
+        0.10372646967428051
+      ],
+      [
+        "development",
+        0.0958095739864991
+      ],
+      [
+        "software",
+        0.09205898431378631
+      ],
+      [
+        "risk",
+        0.06389855948675797
+      ],
+      [
+        "vendors",
+        0.058504241076897785
+      ],
+      [
+        "risk factors",
+        0.048803701770166186
+      ],
+      [
+        "green sustainable",
+        0.04873241491429593
+      ],
+      [
+        "practices",
+        0.04726471928834083
+      ],
+      [
+        "reports",
+        0.04680339286151823
+      ]
+    ],
+    "0": [
+      [
+        "energy",
+        0.0783799960646277
+      ],
+      [
+        "software",
+        0.07662445564823553
+      ],
+      [
+        "consumption",
+        0.05306635705306734
+      ],
+      [
+        "green",
+        0.05167240558670929
+      ],
+      [
+        "energy consumption",
+        0.05128370816108264
+      ],
+      [
+        "application",
+        0.040952167973242644
+      ],
+      [
+        "efficiency",
+        0.03829673781323597
+      ],
+      [
+        "energy efficiency",
+        0.036870252243056394
+      ],
+      [
+        "computing",
+        0.03289652063914458
+      ],
+      [
+        "development",
+        0.0325897884394435
+      ]
+    ],
+    "1": [
+      [
+        "energy",
+        0.10620849094506686
+      ],
+      [
+        "consumption",
+        0.0753118572441404
+      ],
+      [
+        "energy consumption",
+        0.07383843086728933
+      ],
+      [
+        "efficiency",
+        0.048629654595800764
+      ],
+      [
+        "software",
+        0.047848041012960044
+      ],
+      [
+        "design",
+        0.0443418961214051
+      ],
+      [
+        "energy efficiency",
+        0.04186105589585042
+      ],
+      [
+        "patterns",
+        0.04068356675790402
+      ],
+      [
+        "results",
+        0.035810829095357904
+      ],
+      [
+        "data",
+        0.03344983533911919
+      ]
+    ],
+    "2": [
+      [
+        "engineering",
+        0.08065591316591761
+      ],
+      [
+        "software",
+        0.0764152761138042
+      ],
+      [
+        "software engineering",
+        0.07432224966815419
+      ],
+      [
+        "green",
+        0.06355959649746393
+      ],
+      [
+        "sustainability",
+        0.055481258910169085
+      ],
+      [
+        "green software",
+        0.052135998540636455
+      ],
+      [
+        "development",
+        0.04947886112242582
+      ],
+      [
+        "technology",
+        0.03170200440913652
+      ],
+      [
+        "industry",
+        0.029352613093170783
+      ],
+      [
+        "software development",
+        0.027440151548542197
+      ]
+    ],
+    "3": [
+      [
+        "design",
+        0.07621542205575514
+      ],
+      [
+        "code",
+        0.07183803190051594
+      ],
+      [
+        "smells",
+        0.071199773914704
+      ],
+      [
+        "software",
+        0.06832717615094937
+      ],
+      [
+        "energy",
+        0.062335007481843605
+      ],
+      [
+        "patterns",
+        0.062157723054664896
+      ],
+      [
+        "design patterns",
+        0.052566812239399595
+      ],
+      [
+        "code smells",
+        0.051799872133837126
+      ],
+      [
+        "impact",
+        0.045995637504141935
+      ],
+      [
+        "transformations",
+        0.039937129670608036
+      ]
+    ],
+    "4": [
+      [
+        "computing",
+        0.09186955154102572
+      ],
+      [
+        "cloud",
+        0.09095478171695087
+      ],
+      [
+        "cloud computing",
+        0.08098815502841329
+      ],
+      [
+        "green",
+        0.06413539772008904
+      ],
+      [
+        "course",
+        0.05624164303300927
+      ],
+      [
+        "data",
+        0.051625152372976636
+      ],
+      [
+        "energy",
+        0.04997499470653676
+      ],
+      [
+        "information",
+        0.04258593287132094
+      ],
+      [
+        "strategy",
+        0.04076392751373114
+      ],
+      [
+        "energy efficient",
+        0.03910752735705575
+      ]
+    ],
+    "5": [
+      [
+        "software",
+        0.07933591850785243
+      ],
+      [
+        "sustainability",
+        0.05728118566982162
+      ],
+      [
+        "development",
+        0.04975374368421708
+      ],
+      [
+        "factors",
+        0.047578201863002205
+      ],
+      [
+        "software development",
+        0.04603684605612819
+      ],
+      [
+        "research",
+        0.0444590307908871
+      ],
+      [
+        "criteria",
+        0.04326725988776554
+      ],
+      [
+        "sustainable",
+        0.04254753284171548
+      ],
+      [
+        "environmental",
+        0.04154318732480975
+      ],
+      [
+        "lack",
+        0.038207057481716204
+      ]
+    ],
+    "6": [
+      [
+        "energy",
+        0.07376309218684828
+      ],
+      [
+        "architecture",
+        0.062204061149956184
+      ],
+      [
+        "monolithic",
+        0.04849736822584708
+      ],
+      [
+        "microservices",
+        0.04849736822584708
+      ],
+      [
+        "consumption",
+        0.046739214481355464
+      ],
+      [
+        "microservice",
+        0.043623633947894924
+      ],
+      [
+        "development",
+        0.04018571605263687
+      ],
+      [
+        "software",
+        0.03969909579965143
+      ],
+      [
+        "spring",
+        0.03856894680145331
+      ],
+      [
+        "energy consumption",
+        0.037883771512541686
+      ]
+    ]
+  },
+  "topics": [
+    4,
+    6,
+    6,
+    6,
+    1,
+    5,
+    4,
+    2,
+    0,
+    0,
+    1,
+    3,
+    2,
+    3,
+    2,
+    3,
+    -1,
+    3,
+    4,
+    2,
+    4,
+    -1,
+    5,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    5,
+    5,
+    -1,
+    4,
+    4,
+    2,
+    5,
+    2,
+    0,
+    3,
+    1,
+    3,
+    1,
+    2,
+    3,
+    1,
+    6,
+    1,
+    6,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    6,
+    -1,
+    6,
+    5,
+    4,
+    1,
+    -1,
+    0,
+    3,
+    3,
+    2,
+    3,
+    0,
+    2,
+    2,
+    5,
+    2,
+    4,
+    0,
+    2,
+    0,
+    5,
+    1
+  ],
+  "topic_sizes": {
+    "4": 8,
+    "6": 7,
+    "1": 12,
+    "5": 8,
+    "2": 12,
+    "0": 16,
+    "3": 10,
+    "-1": 5
+  },
+  "topic_mapper": [
+    [
+      -1,
+      -1,
+      -1
+    ],
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      6
+    ],
+    [
+      2,
+      2,
+      0
+    ],
+    [
+      3,
+      3,
+      4
+    ],
+    [
+      4,
+      4,
+      3
+    ],
+    [
+      5,
+      5,
+      5
+    ],
+    [
+      6,
+      6,
+      2
+    ]
+  ],
+  "topic_labels": {
+    "-1": "-1_green_software development_development_software",
+    "0": "0_energy_software_consumption_green",
+    "1": "1_energy_consumption_energy consumption_efficiency",
+    "2": "2_engineering_software_software engineering_green",
+    "3": "3_design_code_smells_software",
+    "4": "4_computing_cloud_cloud computing_green",
+    "5": "5_software_sustainability_development_factors",
+    "6": "6_energy_architecture_monolithic_microservices"
+  },
+  "custom_labels": null,
+  "_outliers": 1,
+  "topic_aspects": {
+    "main": {
+      "-1": [
+        [
+          "sustainable software",
+          0.7017778158187866
+        ],
+        [
+          "green software",
+          0.6378710269927979
+        ],
+        [
+          "green sustainable",
+          0.541134774684906
+        ],
+        [
+          "development sustainability",
+          0.5045595169067383
+        ],
+        [
+          "software development",
+          0.5042022466659546
+        ],
+        [
+          "practices green",
+          0.47454822063446045
+        ],
+        [
+          "software hazardous",
+          0.471740186214447
+        ],
+        [
+          "green practices",
+          0.4692242741584778
+        ],
+        [
+          "vendors development",
+          0.4449937641620636
+        ],
+        [
+          "software design",
+          0.43422555923461914
+        ]
+      ],
+      "0": [
+        [
+          "software energy",
+          0.7464040517807007
+        ],
+        [
+          "green computing",
+          0.6081352233886719
+        ],
+        [
+          "software green",
+          0.6002465486526489
+        ],
+        [
+          "green software",
+          0.5865156650543213
+        ],
+        [
+          "energy consumption",
+          0.5480766296386719
+        ],
+        [
+          "software sustainability",
+          0.5400689840316772
+        ],
+        [
+          "energy efficiency",
+          0.5216472744941711
+        ],
+        [
+          "efficiency software",
+          0.5137952566146851
+        ],
+        [
+          "green evaluation",
+          0.4263162612915039
+        ],
+        [
+          "software design",
+          0.3937149941921234
+        ]
+      ],
+      "1": [
+        [
+          "software energy",
+          0.7045163512229919
+        ],
+        [
+          "energy consumption",
+          0.5939831733703613
+        ],
+        [
+          "energy efficiency",
+          0.5707789659500122
+        ],
+        [
+          "energy efficient",
+          0.5437334775924683
+        ],
+        [
+          "energy consumed",
+          0.5436300039291382
+        ],
+        [
+          "energy savings",
+          0.5370787978172302
+        ],
+        [
+          "reduce energy",
+          0.5074287056922913
+        ],
+        [
+          "energy aware",
+          0.48695361614227295
+        ],
+        [
+          "efficiency software",
+          0.48075470328330994
+        ],
+        [
+          "consumption software",
+          0.4502732753753662
+        ]
+      ],
+      "2": [
+        [
+          "sustainable software",
+          0.7588757276535034
+        ],
+        [
+          "sustainability software",
+          0.7113088369369507
+        ],
+        [
+          "green software",
+          0.6117196083068848
+        ],
+        [
+          "green sustainable",
+          0.5489101409912109
+        ],
+        [
+          "software engineering",
+          0.5323764085769653
+        ],
+        [
+          "software development",
+          0.5152243971824646
+        ],
+        [
+          "software design",
+          0.4756413698196411
+        ],
+        [
+          "sustainability",
+          0.4676639139652252
+        ],
+        [
+          "software developers",
+          0.4242737293243408
+        ],
+        [
+          "sustainable",
+          0.41978251934051514
+        ]
+      ],
+      "3": [
+        [
+          "software optimization",
+          0.5406792163848877
+        ],
+        [
+          "software style",
+          0.5303294658660889
+        ],
+        [
+          "software design",
+          0.5002622604370117
+        ],
+        [
+          "smells refactoring",
+          0.47929877042770386
+        ],
+        [
+          "software architectural",
+          0.4733599126338959
+        ],
+        [
+          "architectural transformations",
+          0.4691621959209442
+        ],
+        [
+          "refactoring techniques",
+          0.45381075143814087
+        ],
+        [
+          "software architecture",
+          0.4519127905368805
+        ],
+        [
+          "software quality",
+          0.4484267830848694
+        ],
+        [
+          "refactoring",
+          0.4416845440864563
+        ]
+      ],
+      "4": [
+        [
+          "green data",
+          0.5645432472229004
+        ],
+        [
+          "green cloud",
+          0.5584689974784851
+        ],
+        [
+          "cloud computing",
+          0.5520735383033752
+        ],
+        [
+          "environmental informatics",
+          0.49421775341033936
+        ],
+        [
+          "green coding",
+          0.49207693338394165
+        ],
+        [
+          "energy efficient",
+          0.4915429353713989
+        ],
+        [
+          "energy efficiency",
+          0.4883456826210022
+        ],
+        [
+          "energy usage",
+          0.4775018095970154
+        ],
+        [
+          "energy consumption",
+          0.47727102041244507
+        ],
+        [
+          "green information",
+          0.47440797090530396
+        ]
+      ],
+      "5": [
+        [
+          "sustainable software",
+          0.741676926612854
+        ],
+        [
+          "sustainability software",
+          0.6889641284942627
+        ],
+        [
+          "software development",
+          0.5156362056732178
+        ],
+        [
+          "green software",
+          0.5103553533554077
+        ],
+        [
+          "software engineering",
+          0.5051682591438293
+        ],
+        [
+          "software products",
+          0.47148770093917847
+        ],
+        [
+          "sustainability",
+          0.4495048522949219
+        ],
+        [
+          "impact software",
+          0.4460773468017578
+        ],
+        [
+          "sustainability aspects",
+          0.44503235816955566
+        ],
+        [
+          "tools metrics",
+          0.4384356141090393
+        ]
+      ],
+      "6": [
+        [
+          "energy consumption",
+          0.5372288227081299
+        ],
+        [
+          "sustainable software",
+          0.5371748805046082
+        ],
+        [
+          "energy efficiency",
+          0.49429529905319214
+        ],
+        [
+          "power consumption",
+          0.48482000827789307
+        ],
+        [
+          "energy use",
+          0.48259660601615906
+        ],
+        [
+          "microservice architectures",
+          0.44621503353118896
+        ],
+        [
+          "microservices architecture",
+          0.43865424394607544
+        ],
+        [
+          "microservice based",
+          0.43587246537208557
+        ],
+        [
+          "microservices",
+          0.4178500771522522
+        ],
+        [
+          "energy demands",
+          0.4139464795589447
+        ]
+      ]
+    },
+    "openai": {
+      "-1": [
+        [
+          "Green and Sustainable Software Development Challenges and Practices",
+          1
+        ]
+      ],
+      "0": [
+        [
+          "Green Software Energy Efficiency and Sustainability",
+          1
+        ]
+      ],
+      "1": [
+        [
+          "Energy Efficiency in Software Design and Patterns",
+          1
+        ]
+      ],
+      "2": [
+        [
+          "Green and Sustainable Software Engineering",
+          1
+        ]
+      ],
+      "3": [
+        [
+          "Energy Efficiency in Software Design: Impact of Design Patterns, Code Smells, and Refactoring Techniques",
+          1
+        ]
+      ],
+      "4": [
+        [
+          "Green Computing and Energy Efficiency in Software Development and Cloud Technologies",
+          1
+        ]
+      ],
+      "5": [
+        [
+          "Sustainable Software Engineering and Crowdsourcing Practices",
+          1
+        ]
+      ],
+      "6": [
+        [
+          "Energy Efficiency in Software Architecture: A Comparative Study of Monolithic and Microservices Architectures",
+          1
+        ]
+      ]
+    },
+    "aspect1": {
+      "-1": [
+        [
+          "green",
+          0.15546333737893203
+        ],
+        [
+          "development",
+          0.0958095739864991
+        ],
+        [
+          "software",
+          0.09205898431378631
+        ],
+        [
+          "risk",
+          0.06389855948675797
+        ],
+        [
+          "vendors",
+          0.058504241076897785
+        ],
+        [
+          "practices",
+          0.04726471928834083
+        ],
+        [
+          "reports",
+          0.04680339286151823
+        ],
+        [
+          "resources",
+          0.04625664176770407
+        ],
+        [
+          "factors",
+          0.04554219772922508
+        ],
+        [
+          "critical",
+          0.04259903965783865
+        ]
+      ],
+      "0": [
+        [
+          "energy",
+          0.0783799960646277
+        ],
+        [
+          "software",
+          0.07662445564823553
+        ],
+        [
+          "consumption",
+          0.05306635705306734
+        ],
+        [
+          "green",
+          0.05167240558670929
+        ],
+        [
+          "application",
+          0.040952167973242644
+        ],
+        [
+          "efficiency",
+          0.03829673781323597
+        ],
+        [
+          "computing",
+          0.03289652063914458
+        ],
+        [
+          "development",
+          0.0325897884394435
+        ],
+        [
+          "green software",
+          0.032532575508579166
+        ],
+        [
+          "paper",
+          0.03238191675754821
+        ]
+      ],
+      "1": [
+        [
+          "energy",
+          0.10620849094506686
+        ],
+        [
+          "consumption",
+          0.0753118572441404
+        ],
+        [
+          "efficiency",
+          0.048629654595800764
+        ],
+        [
+          "software",
+          0.047848041012960044
+        ],
+        [
+          "design",
+          0.0443418961214051
+        ],
+        [
+          "patterns",
+          0.04068356675790402
+        ],
+        [
+          "results",
+          0.035810829095357904
+        ],
+        [
+          "data",
+          0.03344983533911919
+        ],
+        [
+          "impact",
+          0.032112143058203396
+        ],
+        [
+          "web",
+          0.030998062200547308
+        ]
+      ],
+      "2": [
+        [
+          "engineering",
+          0.08065591316591761
+        ],
+        [
+          "software",
+          0.0764152761138042
+        ],
+        [
+          "green",
+          0.06355959649746393
+        ],
+        [
+          "sustainability",
+          0.055481258910169085
+        ],
+        [
+          "green software",
+          0.052135998540636455
+        ],
+        [
+          "development",
+          0.04947886112242582
+        ],
+        [
+          "technology",
+          0.03170200440913652
+        ],
+        [
+          "industry",
+          0.029352613093170783
+        ],
+        [
+          "design",
+          0.02657480646265741
+        ],
+        [
+          "research",
+          0.02609818796426384
+        ]
+      ],
+      "3": [
+        [
+          "design",
+          0.07621542205575514
+        ],
+        [
+          "code",
+          0.07183803190051594
+        ],
+        [
+          "smells",
+          0.071199773914704
+        ],
+        [
+          "software",
+          0.06832717615094937
+        ],
+        [
+          "energy",
+          0.062335007481843605
+        ],
+        [
+          "patterns",
+          0.062157723054664896
+        ],
+        [
+          "impact",
+          0.045995637504141935
+        ],
+        [
+          "transformations",
+          0.039937129670608036
+        ],
+        [
+          "consumption",
+          0.03775537209554398
+        ],
+        [
+          "bad",
+          0.03530959918442909
+        ]
+      ],
+      "4": [
+        [
+          "computing",
+          0.09186955154102572
+        ],
+        [
+          "cloud",
+          0.09095478171695087
+        ],
+        [
+          "cloud computing",
+          0.08098815502841329
+        ],
+        [
+          "green",
+          0.06413539772008904
+        ],
+        [
+          "course",
+          0.05624164303300927
+        ],
+        [
+          "data",
+          0.051625152372976636
+        ],
+        [
+          "energy",
+          0.04997499470653676
+        ],
+        [
+          "information",
+          0.04258593287132094
+        ],
+        [
+          "strategy",
+          0.04076392751373114
+        ],
+        [
+          "environmental",
+          0.03875675402863349
+        ]
+      ],
+      "5": [
+        [
+          "software",
+          0.07933591850785243
+        ],
+        [
+          "sustainability",
+          0.05728118566982162
+        ],
+        [
+          "development",
+          0.04975374368421708
+        ],
+        [
+          "factors",
+          0.047578201863002205
+        ],
+        [
+          "research",
+          0.0444590307908871
+        ],
+        [
+          "criteria",
+          0.04326725988776554
+        ],
+        [
+          "sustainable",
+          0.04254753284171548
+        ],
+        [
+          "environmental",
+          0.04154318732480975
+        ],
+        [
+          "lack",
+          0.038207057481716204
+        ],
+        [
+          "literature",
+          0.03617109591142557
+        ]
+      ],
+      "6": [
+        [
+          "energy",
+          0.07376309218684828
+        ],
+        [
+          "architecture",
+          0.062204061149956184
+        ],
+        [
+          "microservices",
+          0.04849736822584708
+        ],
+        [
+          "monolithic",
+          0.04849736822584708
+        ],
+        [
+          "consumption",
+          0.046739214481355464
+        ],
+        [
+          "microservice",
+          0.043623633947894924
+        ],
+        [
+          "development",
+          0.04018571605263687
+        ],
+        [
+          "software",
+          0.03969909579965143
+        ],
+        [
+          "applications",
+          0.03786905484457128
+        ],
+        [
+          "study",
+          0.03611743710348366
+        ]
+      ]
+    },
+    "aspect2": {
+      "-1": [
+        [
+          "sustainable software",
+          0.7017778158187866
+        ],
+        [
+          "green software",
+          0.6378710269927979
+        ],
+        [
+          "practices green",
+          0.47454822063446045
+        ],
+        [
+          "software hazardous",
+          0.471740186214447
+        ],
+        [
+          "software design",
+          0.43422555923461914
+        ],
+        [
+          "development process",
+          0.38981619477272034
+        ],
+        [
+          "multi sourcing",
+          0.3734164237976074
+        ],
+        [
+          "emission software",
+          0.3720288872718811
+        ],
+        [
+          "environment economy",
+          0.3630163073539734
+        ],
+        [
+          "impact environment",
+          0.3240715265274048
+        ]
+      ],
+      "0": [
+        [
+          "software energy",
+          0.7464040517807007
+        ],
+        [
+          "green computing",
+          0.6081352233886719
+        ],
+        [
+          "software green",
+          0.6002465486526489
+        ],
+        [
+          "software sustainability",
+          0.5400689840316772
+        ],
+        [
+          "energy efficiency",
+          0.5216472744941711
+        ],
+        [
+          "efficiency software",
+          0.5137952566146851
+        ],
+        [
+          "application development",
+          0.3307269215583801
+        ],
+        [
+          "consumption",
+          0.31501421332359314
+        ],
+        [
+          "compiler",
+          0.30574512481689453
+        ],
+        [
+          "greener",
+          0.2995627522468567
+        ]
+      ],
+      "1": [
+        [
+          "software energy",
+          0.7045163512229919
+        ],
+        [
+          "energy consumption",
+          0.5939831733703613
+        ],
+        [
+          "consumption web",
+          0.33817899227142334
+        ],
+        [
+          "design decisions",
+          0.30931219458580017
+        ],
+        [
+          "efficiency paper",
+          0.2953951358795166
+        ],
+        [
+          "java",
+          0.27803802490234375
+        ],
+        [
+          "refactoring",
+          0.2558829188346863
+        ],
+        [
+          "cloud",
+          0.24274128675460815
+        ],
+        [
+          "climate change",
+          0.22608251869678497
+        ],
+        [
+          "applications",
+          0.22514382004737854
+        ]
+      ],
+      "2": [
+        [
+          "sustainability software",
+          0.7113088369369507
+        ],
+        [
+          "green software",
+          0.6117196083068848
+        ],
+        [
+          "software developers",
+          0.4242737293243408
+        ],
+        [
+          "green aspects",
+          0.37017112970352173
+        ],
+        [
+          "aspects software",
+          0.36325448751449585
+        ],
+        [
+          "environmental impact",
+          0.3590317368507385
+        ],
+        [
+          "ecodocsense",
+          0.31269192695617676
+        ],
+        [
+          "specification",
+          0.26134973764419556
+        ],
+        [
+          "climate",
+          0.24412551522254944
+        ],
+        [
+          "carbon",
+          0.19898098707199097
+        ]
+      ],
+      "3": [
+        [
+          "software optimization",
+          0.5406792163848877
+        ],
+        [
+          "software style",
+          0.5303294658660889
+        ],
+        [
+          "smells refactoring",
+          0.47929877042770386
+        ],
+        [
+          "architectural transformations",
+          0.4691621959209442
+        ],
+        [
+          "refactoring techniques",
+          0.45381075143814087
+        ],
+        [
+          "code smell",
+          0.41377294063568115
+        ],
+        [
+          "use design",
+          0.3327076733112335
+        ],
+        [
+          "energy considered",
+          0.3321235775947571
+        ],
+        [
+          "software versions",
+          0.3293316662311554
+        ],
+        [
+          "source code",
+          0.3274570107460022
+        ]
+      ],
+      "4": [
+        [
+          "green data",
+          0.5645432472229004
+        ],
+        [
+          "green cloud",
+          0.5584689974784851
+        ],
+        [
+          "cloud computing",
+          0.5520735383033752
+        ],
+        [
+          "environmental informatics",
+          0.49421775341033936
+        ],
+        [
+          "energy efficiency",
+          0.4883456826210022
+        ],
+        [
+          "sustainability",
+          0.4068746566772461
+        ],
+        [
+          "data center",
+          0.3430820405483246
+        ],
+        [
+          "drive efficiencies",
+          0.32438531517982483
+        ],
+        [
+          "infrastructure",
+          0.2968628704547882
+        ],
+        [
+          "big data",
+          0.29346615076065063
+        ]
+      ],
+      "5": [
+        [
+          "sustainability software",
+          0.6889641284942627
+        ],
+        [
+          "software development",
+          0.5156362056732178
+        ],
+        [
+          "impact software",
+          0.4460773468017578
+        ],
+        [
+          "tools metrics",
+          0.4384356141090393
+        ],
+        [
+          "environmental footprint",
+          0.3945161700248718
+        ],
+        [
+          "stakeholders",
+          0.2995678782463074
+        ],
+        [
+          "systematic literature",
+          0.2842579483985901
+        ],
+        [
+          "green",
+          0.25285905599594116
+        ],
+        [
+          "criteria including",
+          0.2080317735671997
+        ],
+        [
+          "crowdsourcing",
+          0.19700901210308075
+        ]
+      ],
+      "6": [
+        [
+          "energy consumption",
+          0.5372288227081299
+        ],
+        [
+          "sustainable software",
+          0.5371748805046082
+        ],
+        [
+          "microservice architectures",
+          0.44621503353118896
+        ],
+        [
+          "energy monolithic",
+          0.4030318856239319
+        ],
+        [
+          "efficiency",
+          0.3632245361804962
+        ],
+        [
+          "scale applications",
+          0.3011170029640198
+        ],
+        [
+          "frameworks",
+          0.28977614641189575
+        ],
+        [
+          "cpu",
+          0.28915828466415405
+        ],
+        [
+          "architecture",
+          0.2804955244064331
+        ],
+        [
+          "environmental impact",
+          0.2609237730503082
+        ]
+      ]
+    }
+  }
+}
