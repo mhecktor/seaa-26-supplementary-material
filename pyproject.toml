@@ -2,7 +2,7 @@
 name = "bib-analysation"
 version = "0.1.0"
 description = ""
-authors = ["mhecktor"]
+authors = [""]
 readme = "README.md"
 packages = [{ include = "src" }]
 package-mode = false
