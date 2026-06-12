@@ -1,0 +1,389 @@
+{
+    "creators": [
+        {
+            "name": "Hecktor, Marco",
+            "orcid": "0009-0008-4093-121X",
+            "affiliation": "Institute for the Digital Transformation of Application and Living Domains"
+        },
+		{
+			"name": "Sachweh, Sabine",
+			"orcid": "0000-0003-1343-3553",
+			"affiliation": "Institute for the Digital Transformation of Application and Living Domains"
+		}
+    ],
+    "title": "Supplementary Material - Green Software Engineering: A Systematic Mapping of Design Impacts on Energy Consumption",
+    "version": "1.0.0",
+    "access_right": "open",
+	"conference_acronym": "SEAA",
+    "conference_dates": "02-04 September 2026",
+    "conference_place": "Krakow, Poland",
+    "conference_session": "Systematic Literature Reviews and Mapping Studies in Software Engineering",
+    "conference_session_part": "The conference session part",
+    "conference_title": "52nd Euromicro Conference on Software Engineering and Advanced Applications",
+    "conference_url": "https://dsd-seaa.com/smse/",
+	"description": "This repository contains the supplementary material for the paper 'Green Software Engineering: A Systematic Mapping of Design Impacts on Energy Consumption' published in SEAA 2026. It includes the dataset, analysis scripts, and additional resources related to the systematic mapping study on green software engineering.",
+	"notes": "This research is co-funded by the European Union and the Ministry of Economic Affairs, Industry, Climate Action and Energy of the State of North Rhine-Westphalia (MWIKE) within \"NeueWege.IN.NRW\" (funding number: EFRE-20801700) and managed by the Projektträger Jülich (PTJ). The authors are responsible for the content of this publication.",
+    "related_identifiers": [
+		{
+			"identifier": "https://doi.org/10.1109/IGCC.2014.7039169",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/PCCC.2015.7410295",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/ICT4S58814.2023.00014",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1016/j.pmcj.2016.06.011",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/ICWS62655.2024.00112",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.5220/0002245401990206",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1016/j.suscom.2021.100603",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1007/978-3-032-02138-0_17",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/SANER.2017.7884614",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.2991/ict4s-14.2014.14",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/2901739.2903494",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/3387940.3392192",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/SANER53432.2022.00108",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1007/s10664-023-10387-8",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1016/j.suscom.2014.11.005",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/SANER48275.2020.9054858",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/ICSME.2019.00013",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/TSE.2019.2946163",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/APSEC.2016.057",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1002/smr.1851",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/MIPRO60963.2024.10569977",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1007/978-3-319-23455-7_5",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/3477314.3507353",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/2884781.2884869",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/INTERACT.2011.13",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/ICSE-SEIS.2017.10",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1016/j.infsof.2017.12.003",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/ICIC63915.2024.11116549",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1016/j.jss.2018.03.063",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/GREENS66463.2025.00012",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/2593743.2593750",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/2483760.2483780",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1007/978-3-662-46675-9_21",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/IGCC.2017.8323605",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1007/s11219-020-09536-9",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.4108/eai.17-11-2023.2342635",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/IGCC.2015.7393698",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		 {
+            "identifier": "978-1-61208-259-2",
+            "relation": "cites",
+            "resource_type": "publication-conferencepaper",
+            "scheme": "isbn"
+        },
+		{
+			"identifier": "https://doi.org/10.1109/MSR.2015.13",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/2568225.2568288",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1007/978-3-031-70797-1_15",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/SANER.2016.93",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.5220/0010517900340046",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1016/j.infsof.2018.08.004",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/3136014.3136031",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"	
+		},
+		{
+			"identifier": "https://doi.org/10.1016/j.scico.2021.102609",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/2896967.2896968",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1016/j.jss.2016.02.035",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.2478/acss-2021-0001",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/2652524.2652538",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/ICSME.2014.35",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.3390/electronics11030442",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1145/1321631.1321699",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.3390/su16135738",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/SBESC.2013.39",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.29007/dz83",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/ICT4S55073.2022.00019",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		},
+		{
+			"identifier": "https://doi.org/10.1109/ICSA65012.2025.00018",
+			"relation": "cites",
+			"resource_type": "publication-conferencepaper",
+			"scheme": "doi"
+		}
+    ],
+    "keywords": [
+        "Green Software Engineering",
+        "Systematic Mapping Study",
+		"Software Design",
+		"Energy Consumption",
+		"Sustainability"
+    ],
+    "license": "cc-by-4.0",
+    "upload_type": "software",
+    "language": "eng",
+    "communities": [
+        {"identifier": "idial-institute"}
+    ]
+}
